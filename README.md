@@ -10,6 +10,10 @@ Utiliza dados simulados de sensores por cômodo, aplica técnicas de **Machine L
 
 ---
 
+[![Smart City Laguna - Simulador](https://img.shields.io/badge/Smart_City_Laguna_Simulador-Streamlit-orange?logo=streamlit&style=for-the-badge)](https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/)
+
+---
+
 
 ## 🏗️ Funcionalidades
 
@@ -84,6 +88,7 @@ laguna_city_digital/
 - Base para expansão em uma **Smart City completa**
 
 ---
+
 
 ## 🧑‍💻 Autor
 
