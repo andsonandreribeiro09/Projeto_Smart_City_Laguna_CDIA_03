@@ -3,6 +3,11 @@
 
 Este projeto desenvolve um **Gêmeo Digital para residências inteligentes**, com foco na **análise, previsão e otimização do consumo de energia elétrica**. 
 Utiliza dados simulados de sensores por cômodo, aplica técnicas de **Machine Learning** e oferece visualizações interativas via **Streamlit**.
+
+---
+
+[![Assista no YouTube](https://img.shields.io/badge/🎥%20Ver%20no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=P8ynA2q_MaY)
+
 ---
 
 
@@ -79,8 +84,6 @@ laguna_city_digital/
 - Base para expansão em uma **Smart City completa**
 
 ---
-[![Assista no YouTube](https://img.shields.io/badge/🎥%20Ver%20no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=P8ynA2q_MaY)
-
 
 ## 🧑‍💻 Autor
 
