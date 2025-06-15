@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+Pillow
+scikit-learn
+numpy
+fpdf
+streamlit-autorefresh
