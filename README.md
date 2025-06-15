@@ -5,11 +5,6 @@ Este projeto desenvolve um **Gêmeo Digital para residências inteligentes**, co
 Utiliza dados simulados de sensores por cômodo, aplica técnicas de **Machine Learning** e oferece visualizações interativas via **Streamlit**.
 ---
 
-## 🎥 Demonstração do Projeto
-
-📺 Assista no YouTube:  
-👉 [https://www.youtube.com/watch?v=P8ynA2q_MaY](https://www.youtube.com/watch?v=P8ynA2q_MaY)
-
 
 ## 🏗️ Funcionalidades
 
@@ -84,6 +79,7 @@ laguna_city_digital/
 - Base para expansão em uma **Smart City completa**
 
 ---
+[![Assista no YouTube](https://img.shields.io/badge/🎥%20Ver%20no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=P8ynA2q_MaY)
 
 
 ## 🧑‍💻 Autor
