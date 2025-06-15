@@ -79,6 +79,12 @@ laguna_city_digital/
 
 ---
 
+## 🎬 Demonstração do Projeto
+
+Assista à demonstração no YouTube:  
+🔗 [https://www.youtube.com/watch?v=P8ynA2q_MaY](https://www.youtube.com/watch?v=P8ynA2q_MaY)
+
+
 ## 🧑‍💻 Autor
 
 **André Ribeiro**  
