@@ -5,10 +5,10 @@ Este projeto desenvolve um **Gêmeo Digital para residências inteligentes**, co
 Utiliza dados simulados de sensores por cômodo, aplica técnicas de **Machine Learning** e oferece visualizações interativas via **Streamlit**.
 ---
 
-## 🎬 Demonstração do Projeto
+## 🎥 Demonstração do Projeto
 
-Assista à demonstração no YouTube:  
-🔗 [https://www.youtube.com/watch?v=P8ynA2q_MaY](https://www.youtube.com/watch?v=P8ynA2q_MaY)
+📺 Assista no YouTube:  
+👉 [https://www.youtube.com/watch?v=P8ynA2q_MaY](https://www.youtube.com/watch?v=P8ynA2q_MaY)
 
 
 ## 🏗️ Funcionalidades
