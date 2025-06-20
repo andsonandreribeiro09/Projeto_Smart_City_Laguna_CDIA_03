@@ -6,6 +6,7 @@ scikit-learn
 numpy
 fpdf
 streamlit-autorefresh
-streamlit
-langchain>=0.0.170
+langchain
 openai
+langchain-community
+
