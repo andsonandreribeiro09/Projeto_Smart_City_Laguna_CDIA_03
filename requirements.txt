@@ -9,4 +9,5 @@ streamlit-autorefresh
 langchain
 openai
 langchain-community
+langchain>=0.0.191
 
