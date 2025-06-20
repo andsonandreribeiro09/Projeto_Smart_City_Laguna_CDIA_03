@@ -10,6 +10,7 @@ import plotly.graph_objects as go
 import numpy as np
 from sklearn.cluster import KMeans
 from sklearn.linear_model import LinearRegression
+from agente_llm import app_agente
 
 # CONFIGURAÇÃO STREAMLIT
 st.set_page_config(page_title="🌇 Smart City - Simulador Solar", layout="wide")
@@ -383,10 +384,12 @@ def executar_simulador_solar():
         st.success("PDF gerado com sucesso!")
         
 
-# MENU
-menu = st.sidebar.radio("Menu", ["Simulador Solar"])
+menu = st.sidebar.radio("Menu", ["Simulador Solar", "Agente Inteligente"])
+
 if menu == "Simulador Solar":
     executar_simulador_solar()
+elif menu == "Agente Inteligente":
+    app_agente()
 
 
 # Obs: No futuro podemos integrar dados reais de consumo e geração com sensores físicos ou APIs externas.
